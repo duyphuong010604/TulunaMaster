@@ -127,7 +127,7 @@ class cookie {
     }
 }
 
-//Hàm kiểm tra validation 
+
 
 
 
